@@ -1,4 +1,3 @@
-# Placeholder code to perform sentiment analysis on tweet text
 from textblob import TextBlob
 
 def analyze_sentiment(tweet_text):
