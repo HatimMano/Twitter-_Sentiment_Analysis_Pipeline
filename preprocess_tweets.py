@@ -1,4 +1,3 @@
-# Placeholder code to preprocess raw tweet data
 import re
 
 def preprocess_tweet(tweet):
