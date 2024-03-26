@@ -1,4 +1,3 @@
-# Placeholder code to process data streams in real-time using Apache Kafka
 from kafka import KafkaConsumer
 
 # Kafka broker address
