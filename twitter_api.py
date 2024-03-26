@@ -1,4 +1,3 @@
-# Placeholder code to connect to Twitter API and stream live tweets
 import tweepy
 
 # Twitter API credentials
